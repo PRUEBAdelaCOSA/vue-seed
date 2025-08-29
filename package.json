@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "babel-polyfill": "^6.26.0",
-    "element-ui": "^2.8.2",
+    "element-ui": "^2.15.14",
     "font-awesome": "^4.7.0",
     "jsonp": "^0.2.1",
     "mockjs": "^1.0.1-beta3",
